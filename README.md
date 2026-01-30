@@ -124,6 +124,11 @@ The dashboard integrates:
 
 The purpose of the dashboard is to present the analytical findings in a clear, visual, and decision-friendly format suitable for portfolio demonstration and stakeholder communication.
 
+Explore the full interactive COVID-19 dashboard created in Tableau:
+
+🔗 **Dashboard Link:**  
+https://public.tableau.com/shared/3Q3K7P7SJ?:display_count=n&:origin=viz_share_link
+
 ---
 
 ## 10. Conclusion
